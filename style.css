@@ -1,0 +1,142 @@
+.parent{
+    width: 98%;
+    display: flex;
+    border: 10px solid green;
+    justify-content: space-between;
+}
+body{
+    background-color: grey;
+}
+.ch-1{
+    width: 200px;
+    height: 200px;
+    border: 4px solid red;
+    box-shadow: 10px 10px 4px purple;
+    margin-bottom: 80px;
+    border-radius: 15px;
+    background-color: white;
+}
+.ch-2{
+    width: 200px;
+    height: 200px;
+    border: 4px solid red;
+    box-shadow: 10px 10px 4px purple;
+    margin-right: 40px;
+    border-radius: 15px;
+    background-color: white;
+}
+.ch-3{
+    width: 200px;
+    height: 200px;
+    border: 4px solid red;
+    box-shadow: 10px 10px 4px rgb(110, 53, 110);
+    margin-bottom: 80px;
+    border-radius: 15px;
+    margin-right: 40px;
+    background-color: white;
+}
+.ch-4{
+    width: 200px;
+    height: 200px;
+    border: 4px solid red;
+    box-shadow: 10px 10px 4px purple;
+    border-radius: 15px;
+    background-color: white;
+}
+.box-1{
+    width:370px;
+    height: 110px;
+    border: 4px solid red;
+    box-shadow: 10px 10px 4px purple;
+    margin: auto;
+    border-radius: 10px;
+    background-color: white;
+}
+.box-2{
+    width:450px;
+    height: 60px;
+    border: 4px solid red;
+    margin-left: 450px;
+    position: fixed;
+    background-color:greenyellow;
+    border-radius: 10px;
+    box-shadow: 10px 10px 4px purple;
+}
+h3{
+    text-align: center;
+    color: rgba(51, 4, 51, 0.979);
+    text-shadow: 10px;
+    font-weight: 3000;
+    font-style: italic;
+    text-shadow: 0px 0px 5px;
+}
+p{
+    color: rgba(79, 7, 79, 0.979);
+    text-shadow: 0px 0px 5px #8d1616;
+    font-size: 20px;
+    font-weight: 3000;
+    font-style: italic;
+    text-align: center;
+}
+.hr{
+    background-color: blue;
+}
+input{
+    align-items: center;
+    width: 90px;
+    height: 10px;
+    text-align: center;
+    border: 5px;
+    border-color: black;
+    border-width: 100px;
+}
+button{
+    background-color: red;
+    color: black;
+    border-radius: 20px;
+    margin-left: 60px;
+    height: 20px;
+    width: 90px;
+    }
+.cont-1{
+    width: 700px;
+    height: 600px;
+    border: 5px solid purple;
+    background-color: green;
+    margin: auto;
+    text-align: center;
+}
+.cont-2{
+    width: 700px;
+    height: 250px;
+    display: flex;
+    gap:10px ;
+    margin-left: 5px;
+    margin-top: 40px;
+}
+.ch-5{
+    width: 348px;
+    height: 250px;
+    border: 1px;
+    background-color:rgb(199, 192, 116);
+    text-align: center;
+
+}
+.ch-6{
+    width:348px ;
+    height: 250px;
+    border: 1px;
+    background-color:rgb(199, 192, 116);
+    text-align: center;
+}
+.ch-7{
+    width: 700px;
+    height: 230px;
+    background-color: rgb(199, 192, 116);
+    text-align: center;
+}
+img{
+    margin-left: 30px;
+    margin-top: 45px;
+    border-color: black;
+}
